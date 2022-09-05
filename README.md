@@ -1,3 +1,3 @@
-#<p style="text-align:center">Bootcamp Pottencial .NET Developer</p>
+#<center>Bootcamp Pottencial .NET Developer</center>
 
 
