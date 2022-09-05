@@ -2,5 +2,5 @@
 
 ## Sobre 
 
-Repositório para os desafios do bootcamp Pottencial .NET Developer do Digital Innovation One
+Repositório para os desafios do bootcamp Pottencial .NET Developer do Digital Innovation One.
 
