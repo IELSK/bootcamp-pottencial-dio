@@ -1,0 +1,15 @@
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\bin\Debug\net6.0\TiposOperadores.exe
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\bin\Debug\net6.0\TiposOperadores.deps.json
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\bin\Debug\net6.0\TiposOperadores.runtimeconfig.json
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\bin\Debug\net6.0\TiposOperadores.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\bin\Debug\net6.0\TiposOperadores.pdb
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.csproj.AssemblyReference.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.AssemblyInfoInputs.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.AssemblyInfo.cs
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.csproj.CoreCompileInputs.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\refint\TiposOperadores.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.pdb
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\TiposOperadores.genruntimeconfig.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\TiposOperadores\obj\Debug\net6.0\ref\TiposOperadores.dll
