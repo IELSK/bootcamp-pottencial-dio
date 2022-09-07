@@ -1,0 +1,15 @@
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\bin\Debug\net6.0\SintaxeDados.exe
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\bin\Debug\net6.0\SintaxeDados.deps.json
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\bin\Debug\net6.0\SintaxeDados.runtimeconfig.json
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\bin\Debug\net6.0\SintaxeDados.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\bin\Debug\net6.0\SintaxeDados.pdb
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.csproj.AssemblyReference.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.AssemblyInfoInputs.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.AssemblyInfo.cs
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.csproj.CoreCompileInputs.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\refint\SintaxeDados.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.pdb
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\SintaxeDados.genruntimeconfig.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\SintaxeDados\obj\Debug\net6.0\ref\SintaxeDados.dll
