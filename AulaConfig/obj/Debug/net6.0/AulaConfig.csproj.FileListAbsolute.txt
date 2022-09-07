@@ -1,0 +1,15 @@
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\bin\Debug\net6.0\AulaConfig.exe
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\bin\Debug\net6.0\AulaConfig.deps.json
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\bin\Debug\net6.0\AulaConfig.runtimeconfig.json
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\bin\Debug\net6.0\AulaConfig.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\bin\Debug\net6.0\AulaConfig.pdb
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.csproj.AssemblyReference.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.AssemblyInfoInputs.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.AssemblyInfo.cs
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.csproj.CoreCompileInputs.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\refint\AulaConfig.dll
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.pdb
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\AulaConfig.genruntimeconfig.cache
+C:\Users\ielsk\Documents\workspace\bootcamp-pottencial-dio\AulaConfig\obj\Debug\net6.0\ref\AulaConfig.dll
